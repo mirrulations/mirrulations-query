@@ -33,9 +33,10 @@ Run the CLI tool with a docket ID:
 docket-stats <DOCKET_ID>
 ```
 
-Example output:
+### Example
 
-```
+```bash
+$ docket-stats CMS-2025-0050
 Gathering information (this may take a while for large dockets)...
 Comments:  12%|██▍        | 120/981 [00:01<00:09, 91.23file/s]
 Docket ID: CMS-2025-0050
